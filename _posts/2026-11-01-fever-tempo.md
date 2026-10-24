@@ -38,6 +38,18 @@ gallery:
   - url: /assets/images/fever_tempo/fever12.JPEG
     image_path: /assets/images/fever_tempo/fever12.JPEG
     alt: "placeholder image 12"  
+  - url: /assets/images/fever_tempo/fresheyes1.JPEG
+    image_path: /assets/images/fever_tempo/fresheyes1.JPEG
+    alt: "placeholder image 13"  
+  - url: /assets/images/fever_tempo/fresheyes3.JPEG
+    image_path: /assets/images/fever_tempo/fresheyes3.JPEG
+    alt: "placeholder image 14"  
+  - url: /assets/images/fever_tempo/fresheyes4.JPEG
+    image_path: /assets/images/fever_tempo/fresheyes4.JPEG
+    alt: "placeholder image 15" 
+  - url: /assets/images/fever_tempo/fresheyes5.JPEG
+    image_path: /assets/images/fever_tempo/fresheyes5.JPEG
+    alt: "placeholder image 16"   
 ---
 
 {% include gallery caption="Elise Grinberg, 2026" %}
