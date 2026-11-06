@@ -6,7 +6,7 @@ tags:
   - gallery
 gallery:
   - url: /assets/images/residence_permit/permit1.JPG
-    image_path: /assets/images/residence_permit/permit11.JPG
+    image_path: /assets/images/residence_permit/permit1.JPG
     alt: "placeholder image 1"
   - url: /assets/images/residence_permit/permit2.JPG
     image_path: /assets/images/residence_permit/permit2.JPG
