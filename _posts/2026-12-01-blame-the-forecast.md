@@ -62,8 +62,8 @@ gallery:
   - url: /assets/images/blame_the_forecast/undiagnosed19.JPEG
     image_path: /assets/images/blame_the_forecast/undiagnosed19.JPEG
     alt: "placeholder image 19"
-  - url: /assets/images/blame_the_forecast/undiagnosed20.JPG
-    image_path: /assets/images/blame_the_forecast/undiagnosed20.JPG
+  - url: /assets/images/blame_the_forecast/undiagnosed20 .JPG
+    image_path: /assets/images/blame_the_forecast/undiagnosed20 .JPG
     alt: "placeholder image 20"
 
 ---
