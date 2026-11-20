@@ -32,14 +32,14 @@ gallery:
   - url: /assets/images/open_soul_road/open9.JPEG
     image_path: /assets/images/open_soul_road/open9.JPEG
     alt: "placeholder image 9"
-  - url: /assets/images/open_soul_road/open10.JPEG
-    image_path: /assets/images/open_soul_road/open10.JPEG
+  - url: /assets/images/open_soul_road/open10.JPG
+    image_path: /assets/images/open_soul_road/open10.JPG
     alt: "placeholder image 10"
-  - url: /assets/images/open_soul_road/open11.JPEG
-    image_path: /assets/images/open_soul_road/open11.JPEG
+  - url: /assets/images/open_soul_road/open11.JPG
+    image_path: /assets/images/open_soul_road/open11.JPG
     alt: "placeholder image 11"
-  - url: /assets/images/open_soul_road/open12.JPEG
-    image_path: /assets/images/open_soul_road/open12.JPEG
+  - url: /assets/images/open_soul_road/open12.JPG
+    image_path: /assets/images/open_soul_road/open12.JPG
     alt: "placeholder image 12"
   - 
 ---
